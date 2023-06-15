@@ -1,0 +1,15 @@
+.section2__container {
+    width: 100%;
+    height: 50vh;
+    background-color: rgb(29, 29, 29);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    .section2__content {
+        width: 80%;
+        height: 100%;
+        background-color: orange;
+    }
+
+}

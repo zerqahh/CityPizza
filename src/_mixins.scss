@@ -1,0 +1,15 @@
+@mixin buttonMixin {
+    padding: 3vmin;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    border-radius: 3vmin;
+    background-color: red;
+    border: none;
+    cursor: pointer;
+    color: white;
+    font-family: var(--font-family-arimo);
+    font-size: 1rem;
+    font-weight: 900;
+    white-space: nowrap;
+
+}
