@@ -1,2 +1,2 @@
 # CityPizza
-Example restaurant website
+Perfect website for your local business!
